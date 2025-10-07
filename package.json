@@ -1,9 +1,9 @@
 {
   "name": "thuvien-giao-dien",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "scripts": {
-    "build": "echo 'Building...'", 
+    "build": "echo 'Building...', ", 
     "test": "echo 'Running tests...'"
   },
   "dependencies": {
