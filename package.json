@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "build": "echo 'Building...')",
-    "test": "echo 'Running tests...'"
+    "build": "echo 'Building...'",
+    "test": "echo 'Running tests...'
   },
   "dependencies": {
     "react": "^18.2.0"
